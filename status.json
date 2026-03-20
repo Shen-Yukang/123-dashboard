@@ -1,0 +1,517 @@
+{
+  "mode": "morning",
+  "headline": "Morning review for 2026-03-20 | Week 2026-W12",
+  "scores": {
+    "daily": {
+      "value": 51,
+      "objective": 37,
+      "subjective": 14,
+      "note": "0/5 daily tasks done, streak 0 day(s)."
+    },
+    "weekly": {
+      "value": 56,
+      "objective": 44,
+      "subjective": 12,
+      "note": "0/6 weekly tasks done across 2 block(s)."
+    },
+    "milestone": {
+      "value": 43,
+      "objective": 33,
+      "subjective": 10,
+      "note": "0/8 milestone tasks done."
+    }
+  },
+  "metrics": {
+    "mood": 3,
+    "energy": 3,
+    "focus": 4
+  },
+  "yearly_focus": [
+    "Survey & 问题定义",
+    "路线选择（方法论 / 系统架构）",
+    "原型系统",
+    "实验闭环",
+    "论文初稿",
+    "投稿（目标：强会议 / 期刊）"
+  ],
+  "today": {
+    "total": 5,
+    "done": 0,
+    "tasks": [
+      "Conclusion of Taxonomy Methods [W:W-RAG-01] [M:M-RAG-2026-04] [P:4] [O:note]",
+      "Conclusion of Challenging & Feature [W:W-RAG-01] [M:M-RAG-2026-04] [P:4] [O:note]",
+      "Find VLA/VLA relevant RAG Pipeline/Sys [W:W-RAG-01] [M:M-RAG-2026-04] [P:4] [O:repo]",
+      "Running (Including Embedding Pipeline) [W:W-RAG-01] [M:M-RAG-2026-04] [P:5] [O:demo]",
+      "Define the next SafeRAG MVP deliverable [W:W-SAFERAG-01] [M:M-PHD-2026-10] [P:3] [O:plan]"
+    ]
+  },
+  "weekly": {
+    "week": "2026-W12",
+    "blocks": [
+      {
+        "id": "W-RAG-01",
+        "title": "RAG survey to runnable evidence",
+        "milestone": "M-RAG-2026-04",
+        "done": 0,
+        "total": 4
+      },
+      {
+        "id": "W-SAFERAG-01",
+        "title": "SafeRAG continuity",
+        "milestone": "M-PHD-2026-10",
+        "done": 0,
+        "total": 2
+      }
+    ]
+  },
+  "milestones": [
+    {
+      "id": "M-RAG-2026-04",
+      "title": "RAG foundation and runnable pipeline",
+      "deadline": "2026-04-15",
+      "progress": 0
+    },
+    {
+      "id": "M-PHD-2026-10",
+      "title": "PhD application readiness baseline",
+      "deadline": "2026-10-01",
+      "progress": 0
+    }
+  ],
+  "positive_feedback": [
+    "Recent evidence: Perception dataflow：从“模块零散” → “输入→推理→输出端到端跑通（stub 也可）”"
+  ],
+  "suggestions": [
+    "Reduce Today.md to the top 1-3 executable tasks before the next cycle.",
+    "A deadline is within 45 days with low progress. Shrink scope and move one deliverable into this week."
+  ],
+  "github_queue": {
+    "planning": [],
+    "organization": [],
+    "monitoring": [],
+    "adjusting": [],
+    "blocked": []
+  },
+  "heatmap": [
+    {
+      "date": "2025-12-27",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-28",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-29",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-30",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-31",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-02",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-03",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-04",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-05",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-06",
+      "score": 80,
+      "count": 4
+    },
+    {
+      "date": "2026-01-07",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-08",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-09",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-10",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-11",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-12",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-13",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-14",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-15",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-16",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-17",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-18",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-19",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-20",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-21",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-22",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-23",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-24",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-30",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-31",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-05",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-06",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-07",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-08",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-09",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-10",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-11",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-12",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-13",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-15",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-16",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-17",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-19",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-20",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-21",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-22",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-23",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-24",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-28",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-01",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-03",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-04",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-06",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-07",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-08",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-09",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-10",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-11",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-12",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-13",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-14",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-15",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-16",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-17",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-18",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-19",
+      "score": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-20",
+      "score": 51,
+      "count": 0
+    }
+  ]
+}

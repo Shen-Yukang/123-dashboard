@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="248" viewBox="0 0 760 248" role="img" aria-labelledby="title desc">
+  <title id="title">TODO Tracking Status</title>
+  <desc id="desc">Morning review for 2026-03-20 | Week 2026-W12; recent 28-day workload snapshot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff7e9"/>
+      <stop offset="100%" stop-color="#efe4d2"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="248" rx="24" fill="url(#bg)"/>
+  <rect x="18" y="18" width="724" height="212" rx="20" fill="#fffaf1" stroke="#d9cfbf"/>
+  <text x="36" y="48" font-size="22" font-family="Georgia, serif" font-weight="700" fill="#1e1b18">4-Week Workload Snapshot</text>
+  <text x="36" y="70" font-size="12" font-family="Georgia, serif" fill="#6b625a">2026-02-21 to 2026-03-20</text>
+  <text x="36" y="92" font-size="11" font-family="Georgia, serif" fill="#6b625a">28-day activity heatmap</text>
+  <rect x="36" y="128" width="18" height="18" rx="5" fill="#eee7da"><title>2026-02-21 score 0 done 0</title></rect><rect x="60" y="128" width="18" height="18" rx="5" fill="#eee7da"><title>2026-02-22 score 0 done 0</title></rect><rect x="84" y="128" width="18" height="18" rx="5" fill="#eee7da"><title>2026-02-23 score 0 done 0</title></rect><rect x="108" y="128" width="18" height="18" rx="5" fill="#eee7da"><title>2026-02-24 score 0 done 0</title></rect><rect x="132" y="128" width="18" height="18" rx="5" fill="#eee7da"><title>2026-02-25 score 0 done 0</title></rect><rect x="156" y="128" width="18" height="18" rx="5" fill="#eee7da"><title>2026-02-26 score 0 done 0</title></rect><rect x="180" y="128" width="18" height="18" rx="5" fill="#eee7da"><title>2026-02-27 score 0 done 0</title></rect><rect x="36" y="152" width="18" height="18" rx="5" fill="#eee7da"><title>2026-02-28 score 0 done 0</title></rect><rect x="60" y="152" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-01 score 0 done 0</title></rect><rect x="84" y="152" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-02 score 0 done 0</title></rect><rect x="108" y="152" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-03 score 0 done 0</title></rect><rect x="132" y="152" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-04 score 0 done 0</title></rect><rect x="156" y="152" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-05 score 0 done 0</title></rect><rect x="180" y="152" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-06 score 0 done 0</title></rect><rect x="36" y="176" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-07 score 0 done 0</title></rect><rect x="60" y="176" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-08 score 0 done 0</title></rect><rect x="84" y="176" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-09 score 0 done 0</title></rect><rect x="108" y="176" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-10 score 0 done 0</title></rect><rect x="132" y="176" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-11 score 0 done 0</title></rect><rect x="156" y="176" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-12 score 0 done 0</title></rect><rect x="180" y="176" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-13 score 0 done 0</title></rect><rect x="36" y="200" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-14 score 0 done 0</title></rect><rect x="60" y="200" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-15 score 0 done 0</title></rect><rect x="84" y="200" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-16 score 0 done 0</title></rect><rect x="108" y="200" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-17 score 0 done 0</title></rect><rect x="132" y="200" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-18 score 0 done 0</title></rect><rect x="156" y="200" width="18" height="18" rx="5" fill="#eee7da"><title>2026-03-19 score 0 done 0</title></rect><rect x="180" y="200" width="18" height="18" rx="5" fill="#9ec77b"><title>2026-03-20 score 51 done 0</title></rect>
+  <text x="300" y="74" font-size="11" fill="#6b625a" font-family="Georgia, serif">DONE 28D</text>
+  <text x="300" y="110" font-size="30" font-weight="700" fill="#1e1b18" font-family="Georgia, serif">0</text>
+  <text x="390" y="74" font-size="11" fill="#6b625a" font-family="Georgia, serif">D</text>
+  <text x="390" y="110" font-size="30" font-weight="700" fill="#1e1b18" font-family="Georgia, serif">51</text>
+  <text x="480" y="74" font-size="11" fill="#6b625a" font-family="Georgia, serif">W</text>
+  <text x="480" y="110" font-size="30" font-weight="700" fill="#1e1b18" font-family="Georgia, serif">56</text>
+  <text x="590" y="74" font-size="11" fill="#6b625a" font-family="Georgia, serif">M</text>
+  <text x="590" y="110" font-size="30" font-weight="700" fill="#1e1b18" font-family="Georgia, serif">43</text>
+  <text x="300" y="152" font-size="11" fill="#6b625a" font-family="Georgia, serif">TODAY</text>
+  <text x="300" y="178" font-size="16" font-weight="700" fill="#1e1b18" font-family="Georgia, serif">2026-03-20</text>
+  <text x="300" y="200" font-size="11" fill="#6b625a" font-family="Georgia, serif">Each square is one day. Darker means more completed work.</text>
+  <text x="36" y="226" font-size="11" fill="#6b625a" font-family="Georgia, serif">W1: 0</text><text x="80" y="226" font-size="11" fill="#6b625a" font-family="Georgia, serif">W2: 0</text><text x="124" y="226" font-size="11" fill="#6b625a" font-family="Georgia, serif">W3: 0</text><text x="168" y="226" font-size="11" fill="#6b625a" font-family="Georgia, serif">W4: 0</text>
+</svg>
