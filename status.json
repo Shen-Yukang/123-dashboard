@@ -26,23 +26,36 @@
     "energy": 3,
     "focus": 4
   },
-  "yearly_focus": [
-    "Survey & 问题定义",
-    "路线选择（方法论 / 系统架构）",
-    "原型系统",
-    "实验闭环",
-    "论文初稿",
-    "投稿（目标：强会议 / 期刊）"
-  ],
+  "yearly_focus": [],
   "today": {
     "total": 5,
     "done": 0,
     "tasks": [
-      "Conclusion of Taxonomy Methods [W:W-RAG-01] [M:M-RAG-2026-04] [P:4] [O:note]",
-      "Conclusion of Challenging & Feature [W:W-RAG-01] [M:M-RAG-2026-04] [P:4] [O:note]",
-      "Find VLA/VLA relevant RAG Pipeline/Sys [W:W-RAG-01] [M:M-RAG-2026-04] [P:4] [O:repo]",
-      "Running (Including Embedding Pipeline) [W:W-RAG-01] [M:M-RAG-2026-04] [P:5] [O:demo]",
-      "Define the next SafeRAG MVP deliverable [W:W-SAFERAG-01] [M:M-PHD-2026-10] [P:3] [O:plan]"
+      {
+        "title": "Conclusion of Taxonomy Methods",
+        "checked": false,
+        "raw": "Conclusion of Taxonomy Methods [W:W-RAG-01] [M:M-RAG-2026-04] [P:4] [O:note]"
+      },
+      {
+        "title": "Conclusion of Challenging & Feature",
+        "checked": false,
+        "raw": "Conclusion of Challenging & Feature [W:W-RAG-01] [M:M-RAG-2026-04] [P:4] [O:note]"
+      },
+      {
+        "title": "Find VLA/VLA relevant RAG Pipeline/Sys",
+        "checked": false,
+        "raw": "Find VLA/VLA relevant RAG Pipeline/Sys [W:W-RAG-01] [M:M-RAG-2026-04] [P:4] [O:repo]"
+      },
+      {
+        "title": "Running (Including Embedding Pipeline)",
+        "checked": false,
+        "raw": "Running (Including Embedding Pipeline) [W:W-RAG-01] [M:M-RAG-2026-04] [P:5] [O:demo]"
+      },
+      {
+        "title": "Define the next SafeRAG MVP deliverable",
+        "checked": false,
+        "raw": "Define the next SafeRAG MVP deliverable [W:W-SAFERAG-01] [M:M-PHD-2026-10] [P:3] [O:plan]"
+      }
     ]
   },
   "weekly": {
